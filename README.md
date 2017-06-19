@@ -1,8 +1,8 @@
-Introduction
+Introduccíon
 ------------------------
-ZanPHP is an agile Web application development framework written in PHP5 that uses different design patterns and best practices to create applications more quickly with good quality code.
+MarvinPHP is an agile Web application development framework written in PHP5 that uses different design patterns and best practices to create applications more quickly with good quality code.
 
-Some of the advantages of ZanPHP are:
+Some of the advantages of MarvinPHP are:
 
     Easy to install and configure
     Easy to learn
@@ -22,6 +22,7 @@ Server Requirements
 
 Credits
 -------------------------
-ZanPHP was developed by Carlos Santana (CEO of MilkZoft). ZanPHP was developed in 2009, but was until July 2011 that took the decision to release as free software.
+MarvinPHP esta basado en ZanPHP que fue creado por Carlos Santana (CEO de MilkZoft). MarvinPHP empieza su desarrollo en 2017, el desarrollo de ZanPHP fue en el 2009, pero hasta julio de 2011 se decidió liberar el software.
+
 Currently developing ZanPHP is maintained by the development team and contributors of MilkZoft community.
 Is achieved by implementing best practices to develop applications faster and with higher quality.

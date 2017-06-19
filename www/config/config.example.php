@@ -6,8 +6,8 @@ if (!defined("ACCESS")) {
 /**
  * Website
  */
-$ZP["webURL"] = "http://localhost/ZanPHP";
-$ZP["webName"] = "ZanPHP";
+$ZP["webURL"] = "http://localhost/MarvinPHP";
+$ZP["webName"] = "MarvinPHP";
 $ZP["webTheme"] = "default";
 $ZP["webSituation"] = "Active";
 $ZP["webMessage"] = "";
@@ -44,11 +44,11 @@ $ZP["translation"] = "normal";
  * Constants
  */
 define("SH", "/");
-define("CORE_PATH", "zan");
+define("CORE_PATH", "core");
 define("INDEX", "index.php");
 define("SECRET_KEY", "_eh{Ll&}`<6Y\mg1Qw(;;|C3N9/7*HTpd7SK8t/[}R[vW2)vsPgBLRP2u(C|4]%m_");
 define("DEFAULT_TIMEZONE", "America/Mexico_City");
-define("VIA", "codejobs");
+define("VIA", "manuelgvmx");
 
 /**
  * Twitter App
