@@ -1,0 +1,126 @@
+##################################################################################
+#####                         Licencia Actualizada                            ####
+##################################################################################
+
+Copyright (c) 2017, ManuelGV.MX, Inc.
+
+Todos los derechos reservados.
+
+Esta licencia es un acuerdo legal entre usted y ManuelGVMX, Inc. para el uso
+
+Del Software MarvinPHP (el "Software") adaptación de ZanPHP v3.1
+
+publicada el 26 de Noviembre de 2013. Al obtener el Software usted
+
+Acepta cumplir con los términos y condiciones de esta licencia.
+
+USO PERMITIDO
+
+Se le permite usar, copiar, modificar y distribuir el Software y sus
+
+Documentación, con o sin modificación, para cualquier propósito, siempre que
+
+Se cumplen las siguientes condiciones:
+
+1. Una copia de este acuerdo de licencia debe ser incluida en la distribución.
+2. Las redistribuciones del código fuente deben conservar el aviso de copyright
+   Todos los archivos de código fuente.
+3. Las redistribuciones en formato binario deben reproducir el aviso de copyright anterior
+   En la documentación y / u otros materiales suministrados con la distribución.
+4. Los ficheros que se hayan modificado deberán llevar constancia de la naturaleza
+   Del cambio y los nombres de quienes los cambiaron.
+5. Los productos derivados del Software deberán incluir un acuse de recibo
+   Se derivan de ZanPHP en su documentación y / u otros
+   Materiales suministrados con la distribución.
+6. Los productos derivados del Software no pueden ser llamados "ZanPHP" y/o "MarvinPHP",
+   Ni puede aparecer "ZanPHP" o "MarvinPHP" en su nombre, sin necesidad de
+   Permiso de ManuelGVMX, Inc.
+
+INDEMNIDAD
+
+Usted acepta indemnizar y eximir de responsabilidad a los autores del Software ya los contribuyentes
+Para cualquier demanda, acción o demanda de terceros, directa, indirecta, incidental o consecuente,
+Así como los gastos, responsabilidades, daños, liquidaciones o honorarios relacionados derivados de su uso o uso indebido
+Del Software, o una violación de los términos de esta licencia.
+
+RENUNCIA DE GARANTÍA
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITAS, INCLUIDAS, PERO NO LIMITADAS A, GARANTÍAS DE CALIDAD,
+PERFORMANCE, NO INFRACCIÓN, COMERCIABILIDAD O ADECUACIÓN PARA UN PROPÓSITO PARTICULAR.
+
+
+LIMITACIONES DE RESPONSABILIDAD
+
+ASUME TODOS LOS RIESGOS ASOCIADOS CON LA INSTALACIÓN Y USO DEL SOFTWARE.
+EN NINGÚN CASO LOS AUTORES O TITULARES DEL SOFTWARE SERÁN RESPONSABLES
+PARA RECLAMACIONES, DAÑOS U OTRAS RESPONSABILIDADES QUE SURJAN DE, DE, O EN CONEXIÓN
+CON EL SOFTWARE. LOS TITULARES DE LA LICENCIA SON SOLO RESPONSABLES DE DETERMINAR
+EL APROPIACIÓN DEL USO Y ASUMIR TODOS LOS RIESGOS ASOCIADOS A SU USO, INCLUIDOS
+PERO NO LIMITADO A LOS RIESGOS DE ERRORES DE PROGRAMA, DAÑO AL EQUIPO, PÉRDIDA DE
+DATOS O PROGRAMAS DE SOFTWARE, O NO DISPONIBILIDAD O INTERRUPCIÓN DE OPERACIONES.
+
+
+##################################################################################
+#####                           Licencia Original                             ####
+##################################################################################
+
+Copyright (c) 2011, MilkZoft, Inc. 
+
+All rights reserved. 
+
+This license is a legal agreement between you and MilkZoft, Inc. for the use
+
+of ZanPHP Software (the "Software"). By obtaining the Software you
+
+agree to comply with the terms and conditions of this license.
+
+PERMITTED USE
+
+You are permitted to use, copy, modify, and distribute the Software and its
+
+documentation, with or without modification, for any purpose, provided that
+
+the following conditions are met:
+
+1. A copy of this license agreement must be included with the distribution.
+2. Redistributions of source code must retain the above copyright notice in
+   all source code files.
+3. Redistributions in binary form must reproduce the above copyright notice
+   in the documentation and/or other materials provided with the distribution.
+4. Any files that have been modified must carry notices stating the nature
+   of the change and the names of those who changed them.
+5. Products derived from the Software must include an acknowledgment that
+   they are derived from ZanPHP in their documentation and/or other
+   materials provided with the distribution.
+6. Products derived from the Software may not be called "ZanPHP",
+   nor may "ZanPHP" appear in their name, without prior written
+   permission from MilkZoft, Inc.
+
+INDEMNITY
+
+You agree to indemnify and hold harmless the authors of the Software and any contributors 
+for any direct, indirect, incidental, or consequential third-party claims, actions or suits, 
+as well as any related expenses, liabilities, damages, settlements or fees arising from your use or misuse
+of the Software, or a violation of any terms of this license.
+
+DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESSED OR
+IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF QUALITY, 
+PERFORMANCE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE.
+
+
+LIMITATIONS OF LIABILITY
+
+YOU ASSUME ALL RISK ASSOCIATED 
+WITH THE INSTALLATION AND USE OF THE SOFTWARE. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS OF THE SOFTWARE BE LIABLE
+FOR CLAIMS, 
+DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION
+WITH THE SOFTWARE. LICENSE HOLDERS ARE SOLELY RESPONSIBLE FOR DETERMINING 
+THE 
+APPROPRIATENESS OF USE AND ASSUME ALL RISKS ASSOCIATED WITH ITS USE, INCLUDING
+BUT NOT LIMITED TO THE RISKS OF PROGRAM ERRORS, 
+DAMAGE TO EQUIPMENT, LOSS OF
+DATA OR SOFTWARE PROGRAMS, OR UNAVAILABILITY OR INTERRUPTION OF OPERATIONS.
